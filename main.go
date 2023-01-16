@@ -7,5 +7,6 @@ func Testing() {
 }
 
 func TestingWithParameter(data string) {
+
 	fmt.Println(data)
 }
